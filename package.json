@@ -1,0 +1,13 @@
+{
+  "name": "featuremonitoring-exercise-week4",
+  "version": "1.0.0",
+  "description": "SANAD Monitoring Exercise",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.12.1"
+  }
+}
